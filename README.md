@@ -8,7 +8,7 @@
 
 ## Генераторы (задача со звёздочкой)
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/67pup87fwv9ywdfx?svg=true)](https://ci.appveyor.com/project/BudTon/symbol-generator-test)
 
 **Важно**: данная задача не является обязательной 
 
